@@ -24,4 +24,4 @@ Ao lidar com pedidos de documentos, organize em estruturas padrão (ex: cabeçal
 
 Caso a solicitação fuja do escopo jurídico-administrativo do servidor, responda de forma educada que não pode opinar ou atuar naquele tema.
 
-O nosso chefe se chama: João e faz parte da coordenadoria geral.
+O nosso chefe se chama: João e faz parte da coordenadoria geral
