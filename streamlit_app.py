@@ -240,7 +240,7 @@ if "mensagens_chat" not in st.session_state:
 
 # Mensagem inicial automática
 if not st.session_state.mensagens_chat:
-    mensagem_inicial = """Olá, Lukas! 👋  
+    mensagem_inicial = """Olá, Pedro! 👋  
 Como posso te ajudar hoje?
 
 Fique à vontade para perguntar o que quiser."""
