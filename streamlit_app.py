@@ -33,7 +33,7 @@ _PADROES = [
     r"conforme (o|a) material[^.]*\.?\s*"
 ]
 
-# CSS personalizado para estilizar o balão de upload e o avis
+# CSS personalizado para estilizar o balão de upload e o aviso
 
 st.markdown(
     """
